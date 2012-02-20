@@ -1,7 +1,8 @@
 ScrapyDo
 ========
 
-A free and very simple site scraper based on Mechanize and BeautifulSoup
+A free and very simple site scraper based on Mechanize and BeautifulSoup.
+** Work in progress **
 
 TODO
 ====
